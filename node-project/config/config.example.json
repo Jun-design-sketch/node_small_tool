@@ -1,0 +1,6 @@
+{
+  "rootPath": ".",
+  "csvGroupByToolFilePath": "data/csvGroupByTool/input.csv",
+  "csvGroupByToolOutputPath": "data/csvGroupByTool/output.csv",
+  "txtMapParserFilePath": "data/txtMapParser/input.txt"
+}
